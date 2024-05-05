@@ -1,3 +1,5 @@
+[![Header](https://github.com/vitaliy-mitnichuk/vitaliy-mitnichuk/blob/main/mybanner1.png?raw=true "Header")](https://github.com/vitaliy-mitnichuk)
+
 ## 👋 Hello! 
 Front-end developer with 1+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web and mobile development.
 
