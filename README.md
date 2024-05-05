@@ -1,5 +1,5 @@
 ## 👋 Hello! 
-Software engineer with 1+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web and mobile development.
+Front-end developer with 1+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web and mobile development.
 
 ## 📲 Connect With Me
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitvitchuk@gmail.com?subject=Your%20Subject&body=Your%20Message)
