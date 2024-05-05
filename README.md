@@ -1,7 +1,7 @@
 [![Header](https://github.com/vitaliy-mitnichuk/vitaliy-mitnichuk/blob/main/githubbanner.png?raw=true "Header")](https://github.com/vitaliy-mitnichuk)
 
 ## 👋 Hello! 
-Front-end developer with 1+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web and mobile development.
+Frontend developer with 1+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web and mobile development.
 
 ## 📲 Connect With Me
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitvitchuk@gmail.com?subject=Your%20Subject&body=Your%20Message)
@@ -10,9 +10,9 @@ Front-end developer with 1+ years of experience.  Worked for innovative startups
 [![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/vitaliy-mitnichuk/)
 
 ## 🛠️ Technologies & Tools
-### 🖥️ Front-end
+### 🖥️ Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwindcss,styledcomponents)](https://skillicons.dev)
-### 🗄️ Backend-end
+### 🗄️ Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma)](https://skillicons.dev)
 ### 💡 Development tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,bash,postman,figma)](https://skillicons.dev)
